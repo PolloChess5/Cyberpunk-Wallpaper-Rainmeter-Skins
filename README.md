@@ -71,11 +71,7 @@ A compact performance dashboard providing immediate hardware feedback with local
 
 # 🖼️ Screenshot
 
-<img width="428" height="288" alt="Screenshot 2026-06-07 143153" src="https://github.com/user-attachments/assets/7970d8ef-67e0-4ddb-8108-8bba571dfa09" />
-<img width="286" height="109" alt="Screenshot 2026-06-07 143145" src="https://github.com/user-attachments/assets/5023a15e-8f9c-48ee-8779-d8769460501e" />
-<img width="286" height="109" alt="Screenshot 2026-06-07 143145" src="https://github.com/user-attachments/assets/fdf90639-5bb7-428e-98de-5226f99db439" />
-
-
+<img width="286" height="109" alt="Screenshot 2026-06-07 143145" src="https://github.com/user-attachments/assets/f7a572ec-cd51-45a2-9809-48138ee69b40" />
 
 
 ### ✨ Features
