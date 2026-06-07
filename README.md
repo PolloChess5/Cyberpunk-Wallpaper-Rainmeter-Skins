@@ -8,14 +8,16 @@ A collection of minimal, cyberpunk-styled Rainmeter skins designed for high perf
 ---
 # 🖼️ Screenshot
 
-![Screenshot 1](https://imgur.com/a/ym6MPes)
+<img width="1919" height="1079" alt="Screenshot 2026-06-07 143125" src="https://github.com/user-attachments/assets/c00deb30-fd5f-4597-8a6a-558e98113bd8" />
+
 
 ## 🎧 SpotifyAudioTerminal
 A minimal audio player interface with WebNowPlaying integration for controlling music directly from web browsers and local apps.
 
 # 🖼️ Screenshot
 
-![Screenshot 1](https://imgur.com/a/TqQJ8we)
+<img width="303" height="223" alt="Screenshot 2026-06-07 143136" src="https://github.com/user-attachments/assets/f4709a47-964e-4de6-9047-4307a6819453" />
+
 
 ### ✨ Features
 - 🎵 **Web Music Control**: Full support for Spotify and Windows media players.
@@ -38,7 +40,8 @@ A temporal tracking interface displaying a futuristic, rolling timeline of past,
 
 # 🖼️ Screenshot
 
-![Screenshot 1](https://imgur.com/a/P5SienG)
+<img width="437" height="143" alt="Screenshot 2026-06-07 143159" src="https://github.com/user-attachments/assets/7883f60c-1dd4-4263-9f18-27879f4f527d" />
+
 
 ### ✨ Features
 - 📅 **Dynamic Timeline**: Simultaneously tracks and visualizes the current day, date, month, and year.
@@ -66,7 +69,9 @@ A compact performance dashboard providing immediate hardware feedback with local
 
 # 🖼️ Screenshot
 
-![Screenshot 1](https://imgur.com/a/QFgnrZn)
+<img width="303" height="223" alt="Screenshot 2026-06-07 143136" src="https://github.com/user-attachments/assets/f7768ebc-0e2f-4359-836d-d61c1d827e3f" />
+<img width="286" height="109" alt="Screenshot 2026-06-07 143145" src="https://github.com/user-attachments/assets/e8a532bf-a08f-4f66-aa75-e71b51254516" />
+
 
 
 ### ✨ Features
