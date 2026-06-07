@@ -17,7 +17,8 @@ A minimal audio player interface with WebNowPlaying integration for controlling 
 # 🖼️ Screenshot
 
 <img width="303" height="223" alt="Screenshot 2026-06-07 143136" src="https://github.com/user-attachments/assets/f4709a47-964e-4de6-9047-4307a6819453" />
-<img width="290" height="225" alt="Screenshot 2026-06-07 144434" src="https://github.com/user-attachments/assets/5c8ca302-6ec5-45f0-b578-9e9c7bf4546c" />
+<img width="287" height="223" alt="Screenshot 2026-06-07 144513" src="https://github.com/user-attachments/assets/06f21485-365f-4fa0-ae1c-4feafa0f8f49" />
+
 
 
 ### ✨ Features
