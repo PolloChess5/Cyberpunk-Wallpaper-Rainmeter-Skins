@@ -102,10 +102,6 @@ Modify these parameters in the system monitor `[Variables]` block:
 
 ---
 
-## 🖼️ Media & Gallery
-
-### Desktop Screenshots
-![Component Dashboard Screenshot](https://imgur.com/a/ZiSjFvd)
 
 ### Desktop Customization Resources
 - **Wallpaper Engine Link:** [Osaka Midnight Porsche 911 Live Wallpaper](https://moewalls.com/anime/osaka-midnight-porsche-911-live-wallpaper/)
