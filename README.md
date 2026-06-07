@@ -1,88 +1,94 @@
-# Cyberpunk-Wallpaper-Rainmeter-Skins
-A collection of Cybeprunk styled to perfectly fit the wallpaper linked
-# 🎧 SpotifyAudioTerminal
-A **Cyberpunk Styled** minimal audio player interface with WebNowPlaying integration for controlling music from web browsers.
+# 🌆 Cyberpunk Rainmeter Suite
+A collection of minimal, cyberpunk-styled Rainmeter skins designed for high performance, sleek aesthetics, and quick desktop access. 
 
-![Made with ❤️](https://img.shields.io/badge/Made%20with-%E2%9D%A4-red?style=flat-square)
+![Made with ❤️ by PolloChess5](https://img.shields.io/badge/Made%20with-%E2%9D%A4-red?style=flat-square)
 ![License](https://img.shields.io/github/license/Pollochess5/SpotifyAudioTerminal?style=flat-square)
 ![Platform](https://img.shields.io/badge/Platform-Windows-blue?style=flat-square)
 
 ---
 
-# ✨ Features
+## 🎧 SpotifyAudioTerminal
+A minimal audio player interface with WebNowPlaying integration for controlling music directly from web browsers and local apps.
 
-- 🎵 Web music control (currently supports Spotify and Windows audio players)
-- 📻 Real-time track information display
-- ⏱️ Progress bar with time indicators
-- ⏯️ Play/pause/previous/next controls
-- 🟣 Cyberpunk-themed design with hover effects and transparency
-- 📐 Compact 280x220px layout
+### ✨ Features
+- 🎵 **Web Music Control**: Full support for Spotify and Windows media players.
+- 📻 **Live Metadata**: Real-time track information and status display.
+- ⏱️ **Visual Feedback**: Dynamic progress bar with accurate time indicators.
+- ⏯️ **Media Control**: Clickable play, pause, previous, and next controls.
+- 🟣 **Cyberpunk Aesthetic**: Modern layout featuring custom hover effects and transparency.
+- 📐 **Compact Layout**: Highly optimized 280x220px footprint.
 
----
-
-# 🖼️ Screenshot
-
-![Screenshot 1](assets/screenshot.png)
-
-###### Wallpaper link
-[Wallpaper Engine](https://moewalls.com/anime/osaka-midnight-porsche-911-live-wallpaper/)
-[Video](https://moewalls.com/anime/osaka-midnight-porsche-911-live-wallpaper/)
+### ⚙️ Requirements & Compatibility
+- 💾 **Rainmeter 4.0+**
+- 🌐 **WebNowPlaying Plugin**
+- ✅ **Support**: Spotify (web/desktop), Windows built-in media players.
+- ⚠️ **Note**: Additional browser players may require the WebNowPlaying browser extension.
 
 ---
 
-# ⚙️ Requirements
+## 🗓️ Red Cyberpunk Date Timeline
+A temporal tracking interface displaying a futuristic, rolling timeline of past, present, and upcoming dates.
 
-- 💾 Rainmeter 4.0+
-- 🌐 WebNowPlaying plugin
+### ✨ Features
+- 📅 **Dynamic Timeline**: Simultaneously tracks and visualizes the current day, date, month, and year.
+- ⏭️ **Temporal Context**: Automatically generates relative indicators for yesterday and tomorrow.
+- 🔴 **Neon Styling**: Built using high-contrast red accents, custom bounding boxes, and stylized borders.
+- 🌍 **Localization Ready**: Native translation support through internal language variables (Italian default configuration included).
 
----
+### ⚙️ Requirements
+- 💾 **Rainmeter 4.0+**
 
-# 💻 Compatibility
-
-# 🗓️ Red Cyberpunk Date Timeline
-
-A **Cyberpunk Styled** minimal date and timeline display for Rainmeter, featuring a futuristic aesthetic with dynamic date tracking.
-
----
-
-# ✨ Features
-
-* 📅 **Dynamic Timeline**: Displays the current day, date, month, and year.
-* ⏭️ **Relative Tracking**: Automatically shows yesterday's and tomorrow's values for a complete temporal view.
-* 🟣 **Cyberpunk Aesthetic**: Red-themed color palette with sleek rectangular borders and transparency effects.
-* ⚙️ **Highly Customizable**: Easily modify font sizes, spacing, and colors via the integrated variables.
-* 🌍 **Localization Ready**: Built-in support for language variables (Italian default provided).
-
----
-
-# ⚙️ Requirements
-
-* 💾 **Rainmeter 4.0+**
-
----
-
-# 💻 Compatibility
-
-* ✅ Works on all Windows versions compatible with Rainmeter.
-* ⚡ Optimized for low resource usage.
-
----
-
-# 🛠️ Configuration
-
-You can customize the look of the skin by editing the `[Variables]` section in the `.ini` file:
+### 🛠️ Configuration Variables
+Modify these values inside the skin's `[Variables]` section to change its appearance:
 
 | Variable | Description |
-| --- | --- |
-| `FontSize` | Adjust the size of the current date text. |
-| `FontFace` | Change the font family (e.g., Consolas, Roboto). |
-| `BGcolor` | Modify the background color and transparency. |
-| `BorderColor` | Change the color of the interface border. |
+| :--- | :--- |
+| `FontSize` | Adjusts the text scale of the current date indicator. |
+| `FontFace` | Swap typography families (Default: `Consolas`). |
+| `BGcolor` | Fine-tune the transparency and color depth of the canvas background. |
+| `BorderColor` | Changes the color scheme of the surrounding bounding box. |
 
 ---
 
-*Designed by PolloChess5*
+## 🖥️ System Monitor
+A compact performance dashboard providing immediate hardware feedback with localized status plots.
 
-- ✅ Spotify (web/desktop)
-- ✅ Windows built-in audio players
-- ⚠️ Additional web players may require WebNowPlaying browser extension
+### ✨ Features
+- 📊 **Real-time Monitoring**: Evaluates RAM footprint, CPU load, and GPU thermal thresholds via real-time line charts.
+- 🌡️ **HWiNFO Integration**: Precision hardware query paths pulling directly from the host environment registry.
+- 🖱️ **Interactive Refreshes**: Left-clicking any numeric reading instantly hot-reloads the active layout configuration.
+- 📐 **Compact Layout**: Tailored 280x90px profile designed to fit minimal desktop spaces.
+
+### ⚙️ Requirements
+- 💾 **Rainmeter 4.0+**
+- 🌡️ **HWiNFO64** (Must be running for continuous GPU telemetry updates)
+
+### 💻 HWiNFO Configuration Setup
+To properly map the GPU temperature sensor data to your dashboard:
+1. Open **HWiNFO64**.
+2. Navigate to configuration and ensure **Shared Memory Support** is actively checked.
+3. Locate your hardware sensor array block and identify the precise index string for your GPU core temperature.
+4. Open the skin's `.ini` file and change `GPUTempIndex` to match that specific index.
+
+### 🛠️ Configuration Variables
+Modify these parameters in the system monitor `[Variables]` block:
+
+| Variable | Description |
+| :--- | :--- |
+| `RAMcolor` / `CPUcolor` / `DiskColor` | Tailor individual HEX/RGB lines and color nodes per component category. |
+| `GraphWidth` / `GraphHeight` | Scale the performance graph dimensions to alter density. |
+| `FontName` | Applies custom font packages across labels and numerical values. |
+
+---
+
+## 🖼️ Media & Gallery
+
+### Desktop Screenshots
+![Component Dashboard Screenshot](https://imgur.com/a/ZiSjFvd)
+
+### Desktop Customization Resources
+- **Wallpaper Engine Link:** [Osaka Midnight Porsche 911 Live Wallpaper](https://moewalls.com/anime/osaka-midnight-porsche-911-live-wallpaper/)
+- **Video Source Link:** [MoeWalls Wallpaper Preview](https://moewalls.com/anime/osaka-midnight-porsche-911-live-wallpaper/)
+
+---
+*Designed by PolloChess5 helped by AI*
