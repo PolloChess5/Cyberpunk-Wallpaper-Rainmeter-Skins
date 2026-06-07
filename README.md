@@ -8,9 +8,14 @@ A collection of minimal, cyberpunk-styled Rainmeter skins designed for high perf
 ---
 # 🖼️ Screenshot
 
-![Screenshot 1](https://imgur.com/a/ZiSjFvd)
+![Screenshot 1](https://imgur.com/a/ym6MPes)
+
 ## 🎧 SpotifyAudioTerminal
 A minimal audio player interface with WebNowPlaying integration for controlling music directly from web browsers and local apps.
+
+# 🖼️ Screenshot
+
+![Screenshot 1](https://imgur.com/a/TqQJ8we)
 
 ### ✨ Features
 - 🎵 **Web Music Control**: Full support for Spotify and Windows media players.
@@ -30,6 +35,10 @@ A minimal audio player interface with WebNowPlaying integration for controlling 
 
 ## 🗓️ Red Cyberpunk Date Timeline
 A temporal tracking interface displaying a futuristic, rolling timeline of past, present, and upcoming dates.
+
+# 🖼️ Screenshot
+
+![Screenshot 1](https://imgur.com/a/P5SienG)
 
 ### ✨ Features
 - 📅 **Dynamic Timeline**: Simultaneously tracks and visualizes the current day, date, month, and year.
@@ -54,6 +63,11 @@ Modify these values inside the skin's `[Variables]` section to change its appear
 
 ## 🖥️ System Monitor
 A compact performance dashboard providing immediate hardware feedback with localized status plots.
+
+# 🖼️ Screenshot
+
+![Screenshot 1](https://imgur.com/a/QFgnrZn)
+
 
 ### ✨ Features
 - 📊 **Real-time Monitoring**: Evaluates RAM footprint, CPU load, and GPU thermal thresholds via real-time line charts.
