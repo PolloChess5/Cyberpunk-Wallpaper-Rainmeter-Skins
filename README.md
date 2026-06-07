@@ -6,7 +6,9 @@ A collection of minimal, cyberpunk-styled Rainmeter skins designed for high perf
 ![Platform](https://img.shields.io/badge/Platform-Windows-blue?style=flat-square)
 
 ---
+# 🖼️ Screenshot
 
+![Screenshot 1](https://imgur.com/a/ZiSjFvd)
 ## 🎧 SpotifyAudioTerminal
 A minimal audio player interface with WebNowPlaying integration for controlling music directly from web browsers and local apps.
 
