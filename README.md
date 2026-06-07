@@ -17,6 +17,7 @@ A minimal audio player interface with WebNowPlaying integration for controlling 
 # 🖼️ Screenshot
 
 <img width="303" height="223" alt="Screenshot 2026-06-07 143136" src="https://github.com/user-attachments/assets/f4709a47-964e-4de6-9047-4307a6819453" />
+<img width="290" height="225" alt="Screenshot 2026-06-07 144434" src="https://github.com/user-attachments/assets/5c8ca302-6ec5-45f0-b578-9e9c7bf4546c" />
 
 
 ### ✨ Features
@@ -69,8 +70,10 @@ A compact performance dashboard providing immediate hardware feedback with local
 
 # 🖼️ Screenshot
 
-<img width="303" height="223" alt="Screenshot 2026-06-07 143136" src="https://github.com/user-attachments/assets/f7768ebc-0e2f-4359-836d-d61c1d827e3f" />
-<img width="286" height="109" alt="Screenshot 2026-06-07 143145" src="https://github.com/user-attachments/assets/e8a532bf-a08f-4f66-aa75-e71b51254516" />
+<img width="428" height="288" alt="Screenshot 2026-06-07 143153" src="https://github.com/user-attachments/assets/7970d8ef-67e0-4ddb-8108-8bba571dfa09" />
+<img width="286" height="109" alt="Screenshot 2026-06-07 143145" src="https://github.com/user-attachments/assets/5023a15e-8f9c-48ee-8779-d8769460501e" />
+<img width="286" height="109" alt="Screenshot 2026-06-07 143145" src="https://github.com/user-attachments/assets/fdf90639-5bb7-428e-98de-5226f99db439" />
+
 
 
 
