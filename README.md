@@ -33,7 +33,8 @@ A minimal audio player interface with WebNowPlaying integration for controlling 
 - 💾 **Rainmeter 4.0+**
 - 🌐 **WebNowPlaying Plugin**
 - ✅ **Support**: Spotify (web/desktop), Windows built-in media players.
-- ⚠️ **Note**: Additional browser players may require the WebNowPlaying browser extension.
+- ⚠️ **Note**: Additional browser players may require the WebNowPlaying browser extension. 
+- ⚠️ **Note**: It does NOT work whit Plexamp. 
 
 ---
 
